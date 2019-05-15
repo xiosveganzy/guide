@@ -17,7 +17,7 @@ maka kalian bisa membaca disini peraturan maupun fitur2 dari server kami ini....
 
 ## Documentation's
 
-**We support Docs discord.js**
+**We support Docs [discord.js](https://www.npmjs.com/package/discord.js)**
 
 ```js
 
